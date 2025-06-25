@@ -17,3 +17,4 @@ for key, values in shopping_dict.items():
     print("w sumie kupuję " + str(product_counter) + " produkty")
     
 print("to jest 1 zmiana na poterzeby cwiczenia")
+print("to jest 2 zmiana na potrrzeby zmiany wiczenia")
